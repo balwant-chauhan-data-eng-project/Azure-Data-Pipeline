@@ -6,7 +6,7 @@ In this project, we will create a data pipeline to move data from an on-premises
 
 ## Step 1: Download AdventureWorks Database 🗄️
 
-- Download the AdventureWorks Database from [Microsoft SQL Server sample databases](https://github.com/Microsoft/sql-server-samples).
+- Download the AdventureWorks Database from [Microsoft SQL Server sample databases](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline/releases/tag/v1.2).
 - Install and configure SQL Server on your on-premises system.
 
 ---
